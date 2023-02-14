@@ -1,0 +1,15 @@
+C:\Users\к\Desktop\Example\Example_massif\bin\Debug\net6.0\Example_massif.exe
+C:\Users\к\Desktop\Example\Example_massif\bin\Debug\net6.0\Example_massif.deps.json
+C:\Users\к\Desktop\Example\Example_massif\bin\Debug\net6.0\Example_massif.runtimeconfig.json
+C:\Users\к\Desktop\Example\Example_massif\bin\Debug\net6.0\Example_massif.dll
+C:\Users\к\Desktop\Example\Example_massif\bin\Debug\net6.0\Example_massif.pdb
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.csproj.AssemblyReference.cache
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.AssemblyInfoInputs.cache
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.AssemblyInfo.cs
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.csproj.CoreCompileInputs.cache
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.dll
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\refint\Example_massif.dll
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.pdb
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\Example_massif.genruntimeconfig.cache
+C:\Users\к\Desktop\Example\Example_massif\obj\Debug\net6.0\ref\Example_massif.dll
